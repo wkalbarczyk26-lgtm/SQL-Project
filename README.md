@@ -46,6 +46,9 @@ The projects focus on data retrieval, filtering, sorting, aggregation, and table
 * Answering business-driven data questions
 * Using **MySQL Workbench**
 
+* 
+![Jouins Examples](Screenshots/SQL_Joins.png)
+
 ---
 
 ## 📊 Key Tasks & Examples
